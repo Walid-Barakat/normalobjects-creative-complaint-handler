@@ -15,7 +15,7 @@ normalobjects-creative-complaint-handler/
 ├── .gitignore                        # Keeps secrets and virtual env out of GitHub
 ├── normalobjects_langchain.py        # Main complete agent implementation
 ├── notebooks/
-│   └── normalobjects_workflow.ipynb  # Beginner workflow notebook
+│   └── normalobjects_workflow.ipynb  # Workflow notebook
 └── outputs/
     └── demo_results.md               # Demo evidence; refresh after real API run
 ```

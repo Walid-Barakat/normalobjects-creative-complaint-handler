@@ -468,7 +468,7 @@ def run_mock_demo() -> Dict[str, Any]:
     """Run a deterministic no-API demonstration for setup checks.
 
     This is not a replacement for the real LangChain run. It is provided so a
-    beginner can confirm the project files and Python environment work before
+    user can confirm the project files and Python environment work before
     spending API tokens.
     """
     results: List[Dict[str, Any]] = []
